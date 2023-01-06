@@ -13,3 +13,4 @@ public class StudentEntryDto {
     private int age;
     private String courseName;
 }
+//StdDTO
