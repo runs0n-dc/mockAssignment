@@ -4,7 +4,7 @@ import com.anytimedeveloper.simpleCURDapplication.StudentEntity;
 import com.anytimedeveloper.simpleCURDapplication.dto.StudentEntryDto;
 import com.anytimedeveloper.simpleCURDapplication.dto.StudentResponseDto;
 import lombok.experimental.UtilityClass;
-
+//status
 @UtilityClass
 public class StudentConverter {
     public static StudentEntity dtoToEntity(StudentEntryDto studentEntryDto)
